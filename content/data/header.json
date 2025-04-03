@@ -12,14 +12,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Principal",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Simulados",
             "altText": "Dropdown",
             "links": [
