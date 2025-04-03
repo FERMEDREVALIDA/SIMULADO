@@ -1,47 +1,22 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "SIMULADOS",
+            "altText": "",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "SIMULADO 1",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -71,7 +46,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Inscrever",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
@@ -80,7 +55,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Entrar",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
